@@ -2,9 +2,7 @@ const imgs = document.querySelectorAll('.header-slider ul img');
 const prev_btn = document.querySelector('.control-prev');
 const next_btn = document.querySelector('.control-next');
 
-console.log(imgs);
-
-let n = 0;
+let n = 5;
 
 function changeSlide(){
     for(let i = 0 ; i < imgs.length ; i++){
@@ -26,7 +24,7 @@ prev_btn.addEventListener('click',(e)=>{
     }
     changeSlide();
 })
-// console.log('outside')
+
 
 next_btn.addEventListener('click',(e)=>{
     console.log('clicked5')
