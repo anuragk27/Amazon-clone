@@ -13,7 +13,7 @@ function changeSlide(){
 changeSlide();
 
 
-prev_btn.addEventListener('click',(e)=>{
+prev_btn.addEventListener('click', (e)=>{
     console.log('inside prev btn')
     if(n > 0){
         n--;
@@ -26,7 +26,7 @@ prev_btn.addEventListener('click',(e)=>{
 })
 
 
-next_btn.addEventListener('click',(e)=>{
+next_btn.addEventListener('click', (e)=>{
     console.log('clicked5')
     if(n < imgs.length - 1){
         n++;
