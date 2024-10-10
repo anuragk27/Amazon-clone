@@ -1,6 +1,8 @@
 # 🛒 AMAZON UI CLONE CREATED USING HTML,CSS,JS
 
-# 🚀LIVE DEMO : https://anuragk27.github.io/Amazon-clone/index.html
+# 🚀LIVE DEMO : 
+
+https://anuragk27.github.io/Amazon-clone/index.html
 
 # 📱SCREENSHOTS:
 
